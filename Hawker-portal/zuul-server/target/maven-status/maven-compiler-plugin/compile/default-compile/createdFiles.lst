@@ -1,0 +1,2 @@
+com\zuul\server\filter\ZuulLoggingFilter.class
+com\zuul\server\ZuulServiceApplication.class

@@ -1,0 +1,8 @@
+com\user\service\UserService.class
+com\user\AddressServiceProxy.class
+com\user\service\impl\UserServiceImpl.class
+com\user\controller\UserController.class
+com\user\model\Address.class
+com\user\UserServiceMain.class
+com\user\util\UserServiceError.class
+com\user\model\User.class

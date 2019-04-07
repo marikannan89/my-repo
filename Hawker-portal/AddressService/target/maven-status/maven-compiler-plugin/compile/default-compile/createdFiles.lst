@@ -1,0 +1,3 @@
+com\address\controller\AddressController.class
+com\address\model\Address.class
+com\address\AddressServiceBootConfiguration.class
